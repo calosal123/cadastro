@@ -1,0 +1,11 @@
+#menu{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px dotted gray;
+}
+
+.linkmenu{
+    color: blue;    
+}
